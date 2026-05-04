@@ -11,11 +11,16 @@ Practice front-end development, improve coding skills, receive feedback, and bui
 
 ## How to Contribute
 
+## For Collaborative-Project
 1. Fork or clone the repository
 2. Create your project folder
 3. Add your files
 4. Commit changes
 5. Open a Pull Request
+
+## For the Solo-Project
+1. Create your project folder
+2. Push it to the Solo-Project folder
 
 ## Suggested Folder Structure
 
